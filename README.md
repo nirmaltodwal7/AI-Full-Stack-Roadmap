@@ -13,7 +13,6 @@
 
 ## 📅 Phase 1: Months 1–3 — Front-End + AI Basics
 
-<img src="https://cdn.dribbble.com/users/1876780/screenshots/6132049/media/85f6fbc493eb997b232dc6ff8d78199e.gif" width="100%" />
 
 - ✅ **HTML/CSS/JavaScript**  
   Build 5+ projects (e.g., Netflix UI clone, portfolio site)
@@ -32,7 +31,6 @@
 
 ## 🖥️ Phase 2: Months 4–6 — Back-End + AI Integration
 
-<img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="100%" />
 
 - 🐍 **Python + Node.js**  
   Build REST APIs using FastAPI or Express
@@ -50,7 +48,7 @@
 
 ## 🧠 Phase 3: Months 7–9 — Specialize in AI/ML
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" align="right" />
+
 
 - 📊 **Machine Learning**  
   Start with scikit-learn, then dive into TensorFlow
@@ -68,7 +66,7 @@
 
 ## 💰 Phase 4: Months 10–12 — Monetize & Land ₹1Cr+ Roles
 
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
+
 
 - 💡 **Build a Killer SaaS**  
   AI writing assistants, analytics tools, etc.
